@@ -1,0 +1,61 @@
+/* CV Preview Styling */
+
+.preview-container
+{
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 30px;
+    background: white;
+    border-radius: 12px;
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Header */
+.preview-header
+{
+    text-align: center;
+    border-bottom: 2px solid #2563eb;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+}
+
+.preview-header h2
+{
+    margin: 0;
+    color: #1e293b;
+}
+
+.preview-header p
+{
+    margin: 5px 0;
+    color: #475569;
+}
+
+/* Sections */
+.preview-section
+{
+    margin-bottom: 20px;
+}
+
+.preview-section h3
+{
+    color: #2563eb;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+/* Content */
+.preview-section p
+{
+    margin: 4px 0;
+    color: #0f172a;
+}
+
+/* Experience formatting */
+.job-block
+{
+    margin-bottom: 10px;
+}
